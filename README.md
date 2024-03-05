@@ -9,7 +9,7 @@ I'm passionate about web development and always eager to learn new technologies 
 Here are some of the technologies I'm proficient in:
 
 ### Frontend
-- React JS 🌻
+- React JS 
 - Angular JS
 - Vue JS
 - GraphQL
