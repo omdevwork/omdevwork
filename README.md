@@ -28,8 +28,6 @@
 - **Tools**: Docker, Kubernetes, Git, Webpack
 <br>
 
-- 🌱 I’m currently learning **Blockchain Technology**
-
 - 👯 I’m looking to collaborate on **Full-Stack Projects**
 
 - 📫 How to reach me **omdevwork@gmail.com**
