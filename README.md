@@ -42,5 +42,5 @@
 </div>
 
 <p align="center">
- &nbsp; &nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=omdevwork" alt="omdevwork" />
+ &nbsp; &nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=omdevwork&theme=dark&hide_border=true" alt="omdevwork" />
 </p>
